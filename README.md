@@ -1,2 +1,1 @@
-# 4d-example-glm-edge-v-5b
-GLM Edge V 5B in GGUF
+## [zai-org/glm-edge-v-5b](https://huggingface.co/zai-org/glm-edge-v-5b)
